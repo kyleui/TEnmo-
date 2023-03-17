@@ -1,0 +1,3 @@
+2023-03-09T12:03:16.2913548 401 : [no body]
+2023-03-09T20:45:25.5058839 401 : [{"timestamp":"2023-03-10T01:45:25.475+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users"}]
+2023-03-09T20:45:54.4460464 401 : [{"timestamp":"2023-03-10T01:45:54.444+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users"}]
